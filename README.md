@@ -17,7 +17,7 @@ So this is what you need to do:
 
 
 
-                                                                                                                                                                                      3. Click on Ether
+                                                                                                                                                                                  3. Click on Ether
 
 
 
