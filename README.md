@@ -8,8 +8,19 @@ So this is what you need to do:
 
 
 1.Install MetaMask Google Chrome Extension (Lol you need to have Chrome BTW)
+
+                                                                                                                                                                                                                  
+
+
 2. Create a MetaMask Account and set the network to Ropsten Test Network
-3. Click on Ether
+
+
+
+
+                                                                                                                                                                                      3. Click on Ether
+
+
+
 4. Then Choose buy (don't worry you won't have to spend money)
 5. Select the 2nd option which is request from test faucet
 6. Then it will take you to a link where you can get free ether (No, its not worth anything even though uniswap says its worth 15$/ETH)
