@@ -27,8 +27,8 @@ So this is what you need to do:
 7. 7. Go to https://remix.ethereum.org/
 8. Make a file {urcoinname}.sol  For Ex-Aryanaldo7.sol
 9. Copy the code from Aryanaldo7.sol to that file and change the name Aryanaldo7 to your coin/token name
-10. Make a new file called EIP20Interface.sol on remix
-11. Copy the code from EIP20Interface.sol to it
+10. Make a new file called {coinname}Interface.sol on remix (Ex-AryInterface.sol)
+11. Copy the code from AryInterface.sol to it
 12. Click on the first file {urcoinname}.sol
 13. Go to the remix compiler and click compile (Here make sure that it says compile {urcoinname}.sol, if you try to compile EIP20INterface.sol you will get an error)
 14.Go to deploy and Run
